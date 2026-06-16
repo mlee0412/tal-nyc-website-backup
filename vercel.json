@@ -1,0 +1,14 @@
+{
+  "redirects": [
+    { "source": "/reserve", "destination": "/#reserve", "permanent": false },
+    { "source": "/reserve/", "destination": "/#reserve", "permanent": false },
+    { "source": "/sms-reservation", "destination": "/#reserve", "permanent": false },
+    { "source": "/sms-reservation/", "destination": "/#reserve", "permanent": false },
+    { "source": "/contact", "destination": "/#reserve", "permanent": false },
+    { "source": "/contact/", "destination": "/#reserve", "permanent": false },
+    { "source": "/menu", "destination": "/#gallery", "permanent": false },
+    { "source": "/menu/", "destination": "/#gallery", "permanent": false },
+    { "source": "/gmaps", "destination": "https://www.google.com/maps/search/?api=1&query=32+W+32nd+St+Floor+3+New+York+NY+10001", "permanent": false },
+    { "source": "/gmaps/", "destination": "https://www.google.com/maps/search/?api=1&query=32+W+32nd+St+Floor+3+New+York+NY+10001", "permanent": false }
+  ]
+}
